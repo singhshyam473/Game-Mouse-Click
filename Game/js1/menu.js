@@ -32,5 +32,5 @@ function updateMain() {}
 
 // onlclick to go to main game state i.e. game.js
 var startGame = function() {
-  game.state.start("Game");
+  game.state.start("firststage");
 };
