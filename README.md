@@ -1,4 +1,4 @@
-# Game-Mouse-Click uisng phaser
+# Game-Mouse-Click using phaser
 
 This game is made using phaser, In this game the player(character) move using the move click. Player move till the mouse clicked point.
 This game has 2 stages, Player start from 1st stage of game and move to 2nd stage when clicked to the canvas end.
